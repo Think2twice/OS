@@ -2,6 +2,9 @@
 ## 一.首先安装homebrew（homebrew是什么具体可以上网搜，这里可以粗略地理解为Mac App Store）
 
 ::homebrew官网给的下载命令速度很慢，这里给出国内的镜像::
+图片测试：
+8F40C309-0B9B-4B6D-BA9E-9D7D934A3EAA.png
+![Image text](https://github.com/Think2twice/OS/blob/main/8F40C309-0B9B-4B6D-BA9E-9D7D934A3EAA.png)
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 查看homebrew是否安装成功
